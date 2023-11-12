@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 import time
 LINK = "https://www.linkedin.com/jobs/search/?currentJobId=3682066626&f_LF=f_AL&geoId=102257491&keywords=python%20developer&location=London%2C%20England%2C%20United%20Kingdom"
-GMAIL = "timuleooo0212@gmail.com"
+GMAIL = ""
 PW = "XXXXXXXX"
 PHONE = "XXXXXXXX"
 
